@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import { useState,useEffect } from 'react';
 import './design.css'
 import Modal from 'react-modal'
+import $ from "jquery"
 
 import axios from "axios"
 function App() {
@@ -29,7 +30,7 @@ function App() {
       } 
       onMouseEnter = {
         () =>{
-
+            
             //implementam hover 
         }
       }
@@ -38,6 +39,7 @@ function App() {
          //implementam hover 
         }
       }
+      
       >
           <img src={post.thumbnail.small} class ="image"></img>
           <span class="dot1"></span>

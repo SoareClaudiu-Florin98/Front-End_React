@@ -10,7 +10,6 @@
     border-radius:5px ; 
     border: 1px solid rgba(236, 233, 233, 0.5);
     font-family:'Lato', sans-serif ; 
-    
 }
 
 .title{
@@ -27,6 +26,11 @@
     height: 50%;
     max-width:100%; 
     width: 100%;
+}
+.image:hover{
+    
+    filter: grayscale(70%);
+
 }
 .dot1{
     height: 10px;
@@ -53,6 +57,7 @@
     color: rgb(117, 116, 116);
     margin-top: 25px;
     font-size: 10px;
+    
 
 }
 .person{
