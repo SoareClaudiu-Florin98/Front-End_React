@@ -28,20 +28,16 @@ function App() {
             //Implementam modal ul 
         }
       } 
-      onMouseEnter = {
-        () =>{
-            
-            //implementam hover 
-        }
-      }
-      onMouseLeave = {
-        () => {
-         //implementam hover 
-        }
-      }
+
       
       >
+
+          <div class= "image_big">
           <img src={post.thumbnail.small} class ="image"></img>
+          <div class = "middle">
+          <div class="text">Learn more</div>
+          </div>
+          </div>
           <span class="dot1"></span>
           <span class="dot2"></span>
           <div class ="title"> 
