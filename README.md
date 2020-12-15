@@ -1,10 +1,12 @@
 Arata bine, nu-i asa ? 
-![2020-12-14 (3)](https://user-images.githubusercontent.com/61350754/102126486-cdbf3500-3e53-11eb-89bd-bef00c142498.png)
+![Harata_bine](https://user-images.githubusercontent.com/61350754/102189504-69d25600-3ebf-11eb-9c9b-d7861f838fc0.png)
+
 
 E si responsive :D 
-![2020-12-14 (4)](https://user-images.githubusercontent.com/61350754/102126586-f0514e00-3e53-11eb-9241-b233611db92e.png)
+![responsive](https://user-images.githubusercontent.com/61350754/102189546-78b90880-3ebf-11eb-8936-38bd6fd1a1ca.png)
 
 Un hover frumos :D
-![2020-12-15 (1)](https://user-images.githubusercontent.com/61350754/102188621-34793880-3ebe-11eb-9588-321475fed406.png)
+![Hover](https://user-images.githubusercontent.com/61350754/102189573-866e8e00-3ebf-11eb-8fe7-cb370c7697ab.png)
+
 
 
