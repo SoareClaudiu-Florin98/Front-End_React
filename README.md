@@ -5,5 +5,6 @@ E si responsive :D
 ![2020-12-14 (4)](https://user-images.githubusercontent.com/61350754/102126586-f0514e00-3e53-11eb-9241-b233611db92e.png)
 
 Un hover frumos :D
-![2020-12-15](https://user-images.githubusercontent.com/61350754/102186650-9d12e600-3ebb-11eb-8062-7e6fd07b3555.png)
+![2020-12-15 (1)](https://user-images.githubusercontent.com/61350754/102188621-34793880-3ebe-11eb-9588-321475fed406.png)
+
 
