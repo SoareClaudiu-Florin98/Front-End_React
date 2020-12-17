@@ -22,6 +22,7 @@
     border-radius: 5px;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px ;
+    cursor:pointer;
 
     position: relative;
     text-align: center;
@@ -38,6 +39,7 @@
     border-bottom-right-radius: 0px ;
     height: 100%;
     max-width:100%; 
+    cursor:pointer;
     width: 100%;
 }
 .dot1{
@@ -108,6 +110,7 @@
   
   .image_big:hover .middle {
     opacity: 1;
+    cursor:pointer;
   }
 
 
